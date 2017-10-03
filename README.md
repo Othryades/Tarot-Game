@@ -19,8 +19,7 @@ The cards are from amazing Yoav Ben-Dov deck's.
 
 ## Thanks
 
-Tarot of Marseille cards game was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies.
-and special thanks to http://www.cbdtarot.com/ for the images of the deck.
+Tarot of Marseille cards game was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies; and a special thanks to http://www.cbdtarot.com/ for the images of the deck.
 
 ## Donations
 
