@@ -5,7 +5,7 @@ The cards are from amazing Yoav Ben-Dov deck's.
 
 ## Features
 
-* drawing three random cards. 
+* Drawing three random cards. 
 
 
 ## How
