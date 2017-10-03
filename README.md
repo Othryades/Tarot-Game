@@ -1,7 +1,7 @@
 # Tarot of Marseille cards game
 
-Tarot of Marseille cards game was my first project during my studies an it's a basic Todo list using HTML, CSS and pure Javascript
-The cards are from amazing Yoav Ben-Dov deck's.
+Tarot of Marseille cards is a simple game based on the famous Tarot of Marseille, developed mainly with simple PHP and AJAX.
+The image cards are from amazing Yoav Ben-Dov deck's.
 
 ## Features
 
