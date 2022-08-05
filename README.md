@@ -1,6 +1,6 @@
 # Tarot of Marseille cards game
 
-Tarot of Marseille cards is a simple game based on the famous Tarot of Marseille, developed mainly with simple PHP and AJAX.
+Tarot of Marseille cards game is a simple game based on the famous Tarot of Marseille, developed mainly with vanilla PHP and AJAX.
 The image cards are from amazing Yoav Ben-Dov deck's.
 
 ## Features
@@ -27,5 +27,5 @@ I work on Tarot of Marseille cards game mostly in my own spare time. If you've f
 
 ## License
 
-Copyright © 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see LICENSE for details.
+Copyright Â© 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see LICENSE for details.
 
